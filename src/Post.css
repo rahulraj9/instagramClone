@@ -1,11 +1,16 @@
 .post {
     background-color: white;
     max-width: 500px;
+    border: 1px solid lightgrey;
+    margin-bottom: 45px;
+    margin-top: 10px;
 }
 
 .post_image {
     width: 100%;
     object-fit: contain;
+    border-top: 1px solid lightgrey;
+    border-bottom: 1px solid lightgrey;
 }
 
 .post_text {
